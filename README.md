@@ -1,6 +1,8 @@
 # 弱智吧精选
 
-百度贴吧：<https://tieba.baidu.com/f?kw=弱智/>
+百度贴吧
+
+[![](logo.jpg)](https://tieba.baidu.com/f?kw=弱智)
 
 ## 年度佳贴
 

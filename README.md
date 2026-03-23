@@ -19,10 +19,15 @@
 
 - [x] <https://tieba.baidu.com/p/10130417881>
   - 公孙闬 2025-10-16 弱智吧21岁生日快乐！盘点弱智吧最出圈的100条段子！
-- [x] <https://github.com/Leymore/ruozhiba>
+- [x] <https://github.com/Leymore/ruozhiba> / <https://modelscope.cn/datasets/AI-ModelScope/ruozhiba/>
   - 18~21 年年度佳帖 `ruozhiba-post-annual.json`
   - 吧主推荐 (截止到 2023.04.30)  `ruozhiba-title-good.json`
   - 一般帖子 (截止到 2023.04.30) `ruozhiba-title-norm.json`
 - [x] <https://docs.qq.com/sheet/DUlZ6aURhamdwb1RO>
   - 腾讯文档 - 弱智吧集锦 （年度盘点、疑问句）
 - ~~https://huggingface.co/datasets/XiaoShuiAt/ruozhiba/~~
+
+- [ ] https://github.com/FunnySaltyFish/Better-Ruozhiba
+- [ ] https://huggingface.co/datasets/kirp/ruozhiba-raw
+- [ ] https://huggingface.co/datasets/LooksJuicy/ruozhiba
+- [ ] https://www.kaggle.com/datasets/zhangcenwei/ruozhiba
